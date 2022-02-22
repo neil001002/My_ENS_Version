@@ -21,3 +21,5 @@ Minted domain banana.ninja,
 Set record for banana.ninja,
 Owner of domain banana: 0xF25209e758BAdBB5EeffF86658Cf6A65D5a79076,
 Contract balance: 0.1
+
+check here:- https://www.testnets.dev/ , https://testnets.opensea.io/collection/developers-name-service
