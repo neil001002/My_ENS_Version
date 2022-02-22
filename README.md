@@ -16,10 +16,10 @@ npx hardhat help
 
 
 npx hardhat run scripts/deploy.js --network mumbai,
-Contract deployed to: 0x06421FABD9Fcba3E0Df171b769e62d73682C09A4,
-Minted domain banana.ninja,
-Set record for banana.ninja,
-Owner of domain banana: 0xF25209e758BAdBB5EeffF86658Cf6A65D5a79076,
+Contract deployed to: 0x24508b16E58C56DD22fB6d2EDb19AC20aFbE23f8,
+Minted domain HelloWorld.dev,
+Set record for HelloWorld.dev,
+Owner of domain HelloWorld: 0xF25209e758BAdBB5EeffF86658Cf6A65D5a79076,
 Contract balance: 0.1
 
 check here:- https://www.testnets.dev/ , https://testnets.opensea.io/collection/developers-name-service
